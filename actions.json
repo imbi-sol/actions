@@ -1,0 +1,9 @@
+{
+  "actions": [
+    {
+      "url": "/transfer",
+      "label": "Send 0.1 SOL",
+      "description": "Send 0.1 SOL to imbibed.sol"
+    }
+  ]
+} 

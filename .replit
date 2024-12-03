@@ -1,0 +1,8 @@
+run = "npm run dev"
+modules = ["nodejs-18", "nodejs-14", "typescript-language-server", "nodejs-16", "nodejs-19", "nodejs-22", "nodejs-20"]
+
+[nix]
+channel = "stable-24_05"
+
+[deployment]
+run = ["sh", "-c", "npm run dev"]
